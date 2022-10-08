@@ -1,0 +1,5 @@
+/*
+QGridLayout *gridLayout;
+QStackedWidget *st_wgt;
+QGraphicsView *graph_view;
+*/
